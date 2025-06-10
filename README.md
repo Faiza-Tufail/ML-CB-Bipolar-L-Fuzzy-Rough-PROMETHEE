@@ -63,7 +63,19 @@ DOI: 10.1016/j.eswa.2025.127951
 DOI: [10.1016/j.eswa.2025.127951](https://doi.org/10.1016/j.eswa.2025.127951)
 
 ---
+## 🔋 Normalized Performance of Different Batteries
 
+The following graph shows the normalized performance of various battery storage systems based on selected evaluation criteria.
+
+![Normalized Performance](Normalized%20Performance%20of%20Battery%20Storage%20Systems.png)
+
+---
+
+## 🏆 Final Ranking for Best Battery (Random Forest)
+
+The animation below demonstrates how the Random Forest model contributes to the final ranking of the most suitable battery for renewable energy systems.
+
+![Final Ranking Animation](random_forest_training.gif)
 ## 📝 License
 
 This repository is licensed under the MIT License.
